@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'launchy'
-gem "poltergeist"
-gem 'capybara'
+# gem "poltergeist"
+# gem 'capybara'
 gem 'rake'
+gem 'capybara-webkit'

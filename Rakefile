@@ -1,8 +1,7 @@
 require 'rake/testtask'
 # require 'capybara'
-require 'capybara/poltergeist'
-Capybara.javascript_driver = :poltergeist
-
+require 'capybara-webkit'
+Capybara.javascript_driver = :webkit
 
 task default: "test"
 Rake::TestTask.new do |t|
