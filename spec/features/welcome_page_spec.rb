@@ -1,5 +1,5 @@
 require 'spec_helper'
-require '../welcome'
+require 'welcome'
 
 describe "My welcome page" do
     it  "has a Welcome message" do
