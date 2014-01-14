@@ -1,8 +1,7 @@
 require 'spec_helper'
 
-
 describe "My welcome page" do
-    it should have "the Welcome message"
-    visit "http://localhost:3000"
+    it  "has a Welcome message"
+    visit "file://localhost/home/jet/Code_Fellows/welcome_project/public/index.html"
     page.text.must_include "Welcome Aboard"
 end
