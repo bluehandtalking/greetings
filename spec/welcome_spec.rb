@@ -1,7 +1,4 @@
-require "minitest/spec"
-require "minitest/autorun"
-
-require "welcome" # Adding class from lib
+require 'spec_helper'
 
 describe "Welcome" do
    it "has a message" do
