@@ -1,3 +1,6 @@
+require 'spec_helper'
+
+
 describe "My search page" do
     it "has results" do
        visit "http://google.com"
