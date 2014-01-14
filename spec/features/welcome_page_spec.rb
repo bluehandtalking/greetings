@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'capybara/rspec'
 
 describe "My welcome page" do
     it  "has a Welcome message"
