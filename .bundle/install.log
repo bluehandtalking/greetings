@@ -1,0 +1,13 @@
+# Logfile created on 2014-01-13 22:15:18 -0800 by logger.rb/44203
+I, [2014-01-13T22:15:18.242877 #8414]  INFO -- : 0:  mime-types (2.0) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/specifications/mime-types-2.0.gemspec
+I, [2014-01-13T22:15:18.644204 #8414]  INFO -- : 0:  mini_portile (0.5.2) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-13T22:17:07.842682 #8414]  INFO -- : 0:  nokogiri (1.6.1) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-13T22:17:07.843209 #8414]  INFO -- : 0:  rack (1.5.2) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/specifications/rack-1.5.2.gemspec
+I, [2014-01-13T22:17:07.843595 #8414]  INFO -- : 0:  rack-test (0.6.2) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-13T22:17:08.199636 #8414]  INFO -- : 0:  xpath (2.0.0) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/specifications/xpath-2.0.0.gemspec
+I, [2014-01-13T22:17:08.801570 #8414]  INFO -- : 0:  capybara (2.2.1) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/specifications/capybara-2.2.1.gemspec
+I, [2014-01-13T22:17:09.172859 #8414]  INFO -- : 0:  cliver (0.3.2) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/specifications/cliver-0.3.2.gemspec
+I, [2014-01-13T22:17:09.173212 #8414]  INFO -- : 0:  multi_json (1.8.4) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-13T22:17:09.692578 #8414]  INFO -- : 0:  websocket-driver (0.3.2) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/specifications/websocket-driver-0.3.2.gemspec
+I, [2014-01-13T22:17:09.783311 #8414]  INFO -- : 0:  poltergeist (1.5.0) from /home/jet/.rvm/gems/ruby-2.1.0@Rails_4.0.2/bundler/gems/poltergeist-09c6570dea38/poltergeist.gemspec
+I, [2014-01-13T22:17:09.783897 #8414]  INFO -- : 0:  bundler (1.5.0) from /home/jet/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
