@@ -1,6 +1,5 @@
 require "minitest/autorun"
 require "minitest/spec"
-
 class FeatureSpec < MiniTest::Spec
    require "capybara-webkit"
    include Capybara::DSL
